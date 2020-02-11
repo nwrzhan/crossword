@@ -8,7 +8,7 @@
          +-+
       3  | |
      +-+-+-+-+-+-+-+-+
-   4 | | | | | | | | |
+   4 |c|h|e|c|k|o|u|t|
      +-+-+-+-+-+-+-+-+
      | |
      +-+
@@ -32,8 +32,8 @@
 1 - git command to show what revision and author last modified each line of a file
 2 - git command to show commit logs
 3 - git command to clone a repository into a new directory
-4 - git command to switch branches
-5 - git command to manage tracked repositories
-6 - git command to revert some existing commits
-7 - git command to apply the changes introduced by some existing commits
+4 - git command to switch branches ==  checkout
+5 - git command to manage tracked repositories == status 
+6 - git command to revert some existing commits`
+7 - git command to apply the changes introduced by some existing commits 
 
