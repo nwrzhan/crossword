@@ -8,29 +8,29 @@
          +-+
       3  | |
      +-+-+-+-+-+-+-+-+
-   4 | | | | | | | | |
+   4 |c|h|e|c|k|o|u|t|
      +-+-+-+-+-+-+-+-+
-     | |
+     |l|
      +-+
-     | |
+     |o|
      +-+
-     | |    5
+     |n|    5
    +-+-+-+-+-+-+
- 6 | | | | | | |
+ 6 |r|e|v|e|r|t|
    +-+-+-+-+-+-+
-           | |
+           |e|
            +-+
-           | |
+           |m|
            +-+
-           | |
+           |o|
            +-+
-           | |
+           |u|
        +-+-+-+-+-+-+-+-+-+-+-+
-     7 | | | | | | | | | | | |
+     7 | | |t| | | | | | | | |
        +-+-+-+-+-+-+-+-+-+-+-+
 
 1 - git command to show what revision and author last modified each line of a file
-2 - git command to show commit logs == git status
+2 - git command to show commit logs
 3 - git command to clone a repository into a new directory == git clone
 4 - git command to switch branches == git checkout
 5 - git command to manage tracked repositories 
